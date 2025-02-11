@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Coba github",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
